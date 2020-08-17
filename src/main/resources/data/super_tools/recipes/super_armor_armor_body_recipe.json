@@ -1,0 +1,42 @@
+{
+  "group": "super_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "3": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "4": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "5": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "6": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "7": {
+      "item": "super_tools:super_gem_gem"
+    },
+    "8": {
+      "item": "super_tools:super_gem_gem"
+    }
+  },
+  "result": {
+    "item": "super_tools:super_armor_armor_chestplate",
+    "count": 1
+  }
+}

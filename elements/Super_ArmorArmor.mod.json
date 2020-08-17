@@ -1,0 +1,57 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "super_armor_head",
+    "enableBody": true,
+    "textureBody": "super_armor_body",
+    "enableLeggings": true,
+    "textureLeggings": "super_armor_leggings",
+    "enableBoots": true,
+    "textureBoots": "super_armor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:ChaoJiGongJu"
+    },
+    "armorTextureFile": "super_armor",
+    "helmetName": "超级头盔",
+    "bodyName": "超级胸甲",
+    "leggingsName": "超级护腿",
+    "bootsName": "超级靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1024,
+    "damageValueHelmet": 1024,
+    "damageValueBody": 1024,
+    "damageValueLeggings": 1024,
+    "damageValueBoots": 1024,
+    "enchantability": 100,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "block.anvil.use"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Super_GemGem"
+      }
+    ]
+  }
+}
